@@ -1,4 +1,4 @@
-![image](https://github.com/immaculeebyaruhanga/immaculeebyaruhanga/assets/155079185/0a3602f0-a72f-41b7-b34d-b79029cae34f)<h1>Hi 👋, I'm Immaculée Byaruhanga</h1>
+<h1>Hi 👋, I'm Immaculée Byaruhanga</h1>
 <h3>About you</h3>
 
 
