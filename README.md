@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Immaculée Byaruhanga </h1>
-<p> A w </p>
+<p> A we </p>
 <h3>About you</h3>
 
 
