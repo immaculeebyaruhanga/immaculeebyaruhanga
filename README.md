@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Immaculée Byaruhanga </h1>
-<p> A web developer who s</p>
+<p> A web developer who sp</p>
 <h3>About you</h3>
 
 
