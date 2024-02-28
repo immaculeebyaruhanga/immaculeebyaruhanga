@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Immaculée Byaruhanga </h1>
-<p> A web developer who specializes in  programming, creating and</p>
-<h3>About you</h3>
+<p> A web developer who specializes in  programming, creating and </p>
+<h3>About you</h3> 
 
 
 <h3 align="left">Connect with me:</h3>
