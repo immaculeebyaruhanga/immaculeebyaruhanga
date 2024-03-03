@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Immaculée Byaruhanga </h1>
 <p> A web developer who specializes in  programming, creating and maintaining</p>
 <h3>About you</h3> 
-I'm a web developer
+I'm a web develope
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/immaculee.byaruhanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="immaculee.byaruhanga" height="30" width="40" /></a>
