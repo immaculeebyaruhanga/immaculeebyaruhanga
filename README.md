@@ -1,5 +1,6 @@
 <h1>
-  Hi 👋, I'm <small> Immaculée <b>    Byaruhanga </b> 
+  Hi 👋, I'm <small> Immaculée 
+    <b>    Byaruhanga </b> 
 </h1> 
 <p> A web developer who specializes in  programming, creating and maintaining</p>  
 <h3>About you</h3>  
