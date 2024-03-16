@@ -1,5 +1,5 @@
 <h1>
-  Hi 👋, I'm <small> Immaculée 
+  Hi 👋, I'm <small> Immaculée
   <b>
     Byaruhanga
   </b> 
