@@ -4,7 +4,7 @@
     Byaruhanga
   </b> 
 </h1> 
-<p> A web developer who specializes in  programming, creating and maintaining</p>  
+<p> A web developer who specializes in  programming, creating and maintaining </p>  
 <h3>About you</h3>  
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
