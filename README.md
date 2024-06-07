@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://fb.com/immaculee.byaruhanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="immaculee.byaruhanga" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@immaculeebyaruhanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@immaculeebyaruhanga" height="30" width="40" /></a>
-<a href="mailto:immaculeebyaruhanga84@gmail.com" target="_blank">
+<a href="[mailto:immaculeebyaruhanga84@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="immaculeebyaruhanga84@gmail.com" height="30" width="40" />
 </a>
   
