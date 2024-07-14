@@ -1,7 +1,7 @@
 <h1> 
   Hi 👋, I'm <small> Immaculée  
   <b>
-    Byaruhanga  
+    Byaruhanga 
   </b> 
 </h1> 
 <p> A web developer who specializes in programming, creating and maintaining </p>    
