@@ -1,6 +1,6 @@
 <h1> 
   Hi 👋, I'm <small> Immaculée  
-  <b>
+  <b>  
     Byaruhanga  
   </b> 
 </h1> 
