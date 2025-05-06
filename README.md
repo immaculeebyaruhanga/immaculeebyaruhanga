@@ -59,58 +59,60 @@
 
 ---
 
-### 🛠️ Programming Languages & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+<div class="container my-4">
+  <h3 class="text-center">🛠️ Programming Languages & Tools</h3>
+  <div class="table-responsive">
+    <table class="table table-bordered text-center align-middle">
+      <tbody>
+        <tr>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"><br>
+            HTML5
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"><br>
+            CSS3
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"><br>
+            JavaScript
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"><br>
+            PHP
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"><br>
+            Bootstrap
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"><br>
+            C#
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"><br>
+            MySQL
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"><br>
+            GitHub
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immaculeebyaruhanga&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=immaculeebyaruhanga&theme=transparent" alt="GitHub Streak" />
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=immaculeebyaruhanga&show_icons=true&theme=transparent" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=immaculeebyaruhanga&theme=transparent" alt="GitHub Streak" style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
