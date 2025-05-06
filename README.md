@@ -24,23 +24,38 @@
 
 ### 📱 Connect With Me
 
-<p align="center">
-  <a href="https://fb.com/immaculee.byaruhanga" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@immaculeebyaruhanga" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/immaculee.byaruhanga" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:immaculeebyaruhanga84@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/immaculee-byaruhanga" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<ol style="text-align: justify; padding-left: 20px;">
+  <li>
+    <a href="https://fb.com/immaculee.byaruhanga" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" alt="Facebook" />
+      <span>Immaculée Byaruhanga</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/@immaculeebyaruhanga" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="30" alt="YouTube" />
+      <span>@immaculeebyaruhanga</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.instagram.com/immaculee.byaruhanga" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram" />
+      <span>immaculee.byaruhanga</span>
+    </a>
+  </li>
+  <li>
+    <a href="mailto:immaculeebyaruhanga84@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Gmail" />
+      <span>immaculeebyaruhanga84@gmail.com</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/immaculee-byaruhanga" target="_blank" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="LinkedIn" />
+      <span>Immaculée Byaruhanga</span>
+    </a>
+  </li>
+</ol>
 
 ---
 
