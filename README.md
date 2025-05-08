@@ -7,10 +7,8 @@
 <p align="center">
   <img src="https://i.imgur.com/your-photo.jpg" width="150" style="border-radius: 50%;" alt="Immaculée Byaruhanga" />
 </p>
-
 <h1 align="center">Hi 👋, I'm <span style="color:#6c63ff;">Immaculée</span> <b>Byaruhanga</b></h1>
 <p align="center">🌍 A passionate <b>Web Developer</b> who loves building, creating, and maintaining digital solutions.</p>
-
 ---
 
 ### 👩‍💻 About Me
